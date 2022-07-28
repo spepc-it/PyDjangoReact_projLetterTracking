@@ -1,0 +1,9 @@
+1) npx create-react-app my-app --template redux
+2) npm install react-bootstrap
+3) npm install @reduxjs/toolkit
+4) npm install redux react-redux redux-thunk redux-devtools-extension
+5) npm i date-fns
+6) npm i axios
+7) npm install axios
+8) npm install react-hook-form
+9) npm i react-hot-toast

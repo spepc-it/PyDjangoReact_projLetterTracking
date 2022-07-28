@@ -1,0 +1,26 @@
+[
+  {
+    "model": "base.DocumentNumberFormat",
+    "pk": 1,
+    "fields": {
+      "prjId": 20005,
+      "category": "PROJECT CORRESPONDENCE",
+      "subCategory":  "INWARD",
+      "numberPrefix": "CBCHP–SPC–NTPC–L–I-",
+      "user": 1,      
+      "createdAt": "2022-07-27 15:16:14.72593+05:30"
+    }
+  },
+  {
+    "model": "base.DocumentNumberFormat",
+    "pk": 2,
+    "fields": {
+      "prjId": 20005,
+      "category": "PROJECT CORRESPONDENCE",
+      "subCategory":  "OUTWARD",
+      "numberPrefix": "CBCHP–SPC–NTPC–L–O-",
+      "user": 1,
+      "createdAt": "2022-07-27 15:16:14.72593+05:30"
+    }
+  }  
+]

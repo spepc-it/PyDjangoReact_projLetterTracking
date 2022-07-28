@@ -1,0 +1,11 @@
+[
+  {
+    "model": "base.ProjectMaster",
+    "pk": 20005,
+    "fields": {
+      "prjTitle": "NTPC CHATTI BARIATU COAL MINING PROJECT",
+      "prjSubTitle": "COAL HANDLING PLANT PACKAGE",
+      "createdAt": "2022-07-27 15:16:14.72593+05:30"
+    }
+  }
+]
